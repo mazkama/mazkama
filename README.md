@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M. Azka Maulana Agusta</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+<h3 align="center">A passionate full stack developer from Indonesia</h3> <br>
 
-- 🏫 I’m currently Studying on **POLITEKNIK NEGERI MALANG**
+- 🏫 I’m currently Studying on **Politeknik Negeri Malang Di Kota Kediri**
 
-- 🌱 I’m currently learning **java,python,php,javascript, and other framework**
+- 🌱 I’m currently learning **java, python, php, javascript, and other framework**
 
 - 📫 How to reach me **qilaynin@gmail.com**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/maraz.ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maraz.ka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
