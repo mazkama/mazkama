@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently Studying on **Politeknik Negeri Malang Di Kota Kediri**
 
-- 🌱 I’m currently learning **java, python, php, javascript, and other framework**
+- 🌱 I’m currently learning **java, python, php, javascript, and other**
 
 - 📫 How to reach me **qilaynin@gmail.com**
 
