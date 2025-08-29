@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java, python, php, javascript, and other**
 
-- 📫 How to reach me **qilaynin@gmail.com**
+- 📫 How to reach me **agustamazkama@gmail.com**
 
 - ⚡ Fun fact **There are still many people who need to be educated**
 
