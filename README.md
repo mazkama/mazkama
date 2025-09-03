@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Azka Maulana Agusta</h1>
-<h3 align="center">Fullstack & Mobile Developer | IoT Engineer | MTCNA & BNSP Certified</h3> <br>
+<h3 align="center">Fullstack Web & Mobile Developer | IoT Engineer</h3> <br>
 
-- 🎓 I recently graduated from **Politeknik Negeri Malang (Informatics Management, GPA 3.76/4.00)**
+- 🎓 I recently graduated from **Politeknik Negeri Malang - Informatics Management**
 - 💻 Experienced in **Fullstack Development (Laravel, Node.js, Express, MySQL, Firebase)** and **Mobile Development (Flutter)**
 - 🔗 Worked on projects such as **ERP Web System (Inventory Module)**, **IoT Server Room Monitoring System**, and **InfoEV Mobile App**
 - 📫 Reach me at: **agustamazkama@gmail.com**
